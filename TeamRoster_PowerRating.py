@@ -1,11 +1,6 @@
 '''
-ID P9363
-CIS 443 - 01
-Due 11/11/2021
 
-This Python script allows the user to enter data about a
-sports team roster and perform specified actions using a
-menu system.
+Last updated: 11/11/2021
 
 '''
 
